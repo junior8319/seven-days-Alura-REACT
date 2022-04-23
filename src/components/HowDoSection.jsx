@@ -1,7 +1,7 @@
 function HowDoSection() {
   return (
     <section>
-      <h2>How do I use this?</h2>
+      <h2>Como Fazer</h2>
     </section>
   );
 }
